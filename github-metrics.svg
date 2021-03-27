@@ -1262,6 +1262,74 @@
                 
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    Pushed 1 commit in <div class="repo">mbourand/webserv</div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <div class="code">features/Common_Gateway_Interface</div></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#a64dd85</div>
+                        <div class="message">Added remote client IP to CGI Env</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    Pushed 1 commit in <div class="repo">mbourand/webserv</div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <div class="code">features/Common_Gateway_Interface</div></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#0d82c14</div>
+                        <div class="message">Added IP gathering and storing as string</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     Pushed 2 commits in <div class="repo">mbourand/webserv</div>
                   </div>
                   <div class="details">
@@ -1368,74 +1436,6 @@
               </section>
             </div>
           
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    Pushed 1 commit in <div class="repo">mbourand/webserv</div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <div class="code">feature_main_config</div></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#0e442ee</div>
-                        <div class="message">Added config Error-page</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    Pushed 1 commit in <div class="repo">mbourand/webserv</div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <div class="code">feature_main_config</div></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#bc3a8de</div>
-                        <div class="message">Added getserverport to Socket</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
         
       </section>
     </div>
@@ -1464,7 +1464,7 @@
           
             <span>These metrics do not include all private contributions, timezone Europe/Paris</span>
           
-          <span>Last updated Sat, 27 Mar 2021 01:26:34 GMT with lowlighter/metrics@3.5.0</span>
+          <span>Last updated Sat, 27 Mar 2021 02:21:49 GMT with lowlighter/metrics@3.5.0</span>
         </footer>
       
       <div id="metrics-end"></div>
