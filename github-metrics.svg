@@ -1374,7 +1374,7 @@ write_sockets are back in the FD_SET even if the request is not finished, this a
             </section>
             <footer>
                 <span>These metrics do not include all private contributions, timezone Europe/Paris</span>
-                <span>Last updated Tue, 04 May 2021 03:18:45 GMT with lowlighter/metrics@3.8.0</span>
+                <span>Last updated Tue, 04 May 2021 04:15:27 GMT with lowlighter/metrics@3.8.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
