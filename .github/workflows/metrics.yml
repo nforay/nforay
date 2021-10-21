@@ -23,7 +23,7 @@ jobs:
           config_animated: yes
           config_timezone: Europe/Paris
           plugin_activity: yes
-          plugin_activity_skipped: "ft_network"
+          plugin_activity_skipped: ft_network, 42Paris/remote-challenges
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 5
